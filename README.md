@@ -2,7 +2,7 @@
 
 This repository contains the experimental materials associated with the Design Computing and Cognition' 2026 (DCC'26) conference paper: [link].
 
-We provide open access to the code via `analysis.ipynb`.
+We provide open access to the code via `analysis.ipynb`. Please run the notebook using Google Colab.
 
 An interactive visualization of Figure 3 is also included.
 
