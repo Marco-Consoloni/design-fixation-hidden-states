@@ -1,0 +1,38 @@
+{
+  "category": {
+    "damp_shock": "blue",
+    "protect_egg": "green",
+    "slow_fall": "red",
+    "living_device": "purple",
+    "prop_of_egg": "orange",
+    "prop_of_env": "deepskyblue"
+  },
+  "fixation": {
+    "fixated": "red",
+    "non_fixated": "green"
+  },
+  "token_pos": {
+    "VERB": "red",
+    "NOUN": "blue",
+    "ADJ": "deepskyblue",
+    "ADV": "green"
+  },
+  "token_tag": {
+    "VB": "red",
+    "VBN": "orange",
+    "VBG": "magenta",
+    "NN": "blue",
+    "JJ": "deepskyblue",
+    "RB": "green"
+  },
+  "prompt_config": {
+    "greedy_decoding": "#3b4cc0",
+    "low_temp": "#809fff",
+    "mid_temp": "#f7b89c",
+    "high_temp": "#b40426"
+  },
+  "shot": {
+    "zero_shot": "blue",
+    "few_shot": "green"
+  }
+}
